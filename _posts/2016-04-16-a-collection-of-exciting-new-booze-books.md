@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-03T00:42:50.644Z'
+datePublished: '2016-08-03T00:46:01.419Z'
 sourcePath: _posts/2016-04-16-a-collection-of-exciting-new-booze-books.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/food-drink/four-new-booze-books-2016'
-hasPage: false
+hasPage: true
 keywords:
   - cocktails
   - spritz
@@ -17,7 +16,7 @@ keywords:
   - sniff
 related: []
 author: []
-dateModified: '2016-08-03T00:42:48.830Z'
+dateModified: '2016-08-03T00:46:00.567Z'
 title: A Collection of Exciting New Booze Books
 app_links: []
 publisher:
@@ -35,6 +34,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: a-collection-of-exciting-new-booze-books/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
