@@ -19,4 +19,7 @@ navigation:
   - name: Booze
     id: a1fbb067-05a4-46c1-9792-e5848a406f61
     type: content
+  - name: Art
+    id: 281680ff-74eb-4062-b897-e0aefe18af15
+    type: content
 description: Strapping strap line goes here!
