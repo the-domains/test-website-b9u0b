@@ -16,4 +16,7 @@ navigation:
   - name: Coffee
     id: 2dd276b2-5b3e-4bfe-b3ce-3e21152ec35e
     type: content
+  - name: Booze
+    id: a1fbb067-05a4-46c1-9792-e5848a406f61
+    type: content
 description: Strapping strap line goes here!
