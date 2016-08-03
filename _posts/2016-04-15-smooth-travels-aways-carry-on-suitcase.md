@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-03T00:42:50.644Z'
+datePublished: '2016-08-03T00:46:29.281Z'
 sourcePath: _posts/2016-04-15-smooth-travels-aways-carry-on-suitcase.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/travel/away-new-carry-on-suitcase'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - carry-on
   - suitcase
@@ -20,7 +19,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-03T00:42:48.992Z'
+dateModified: '2016-08-03T00:46:28.705Z'
 title: 'Smooth Travels: Away''s Carry-On Suitcase'
 app_links: []
 publisher:
@@ -37,6 +36,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: smooth-travels-aways-carry-on-suitcase/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
