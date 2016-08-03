@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-03T00:42:50.675Z'
+datePublished: '2016-08-03T00:46:18.704Z'
 sourcePath: >-
   _posts/2016-04-16-all-the-adults-colouring-is-leading-to-huge-sales-for-pencil.md
 inFeed: true
-isBasedOnUrl: 'http://mashable.com/2016/04/10/colouring-trend/#_B.eXvr5Fgq5'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - colouring
   - pencils
@@ -19,7 +18,7 @@ keywords:
   - basford
 related: []
 author: []
-dateModified: '2016-08-03T00:42:48.991Z'
+dateModified: '2016-08-03T00:46:18.081Z'
 title: All the adults colouring is leading to huge sales for pencil companies
 app_links: []
 publisher:
@@ -37,6 +36,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: true
+url: all-the-adults-colouring-is-leading-to-huge-sales-for-pencil/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
