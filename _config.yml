@@ -6,9 +6,10 @@ color:
   saturation: 0.05368009372614324
   rhythmicContrast: 0.842620125040412
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Test website
+description: Strapping strap line goes here!
