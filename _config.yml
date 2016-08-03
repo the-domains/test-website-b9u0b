@@ -22,4 +22,7 @@ navigation:
   - name: Art
     id: 281680ff-74eb-4062-b897-e0aefe18af15
     type: content
+  - name: Travel
+    id: b6c6feb8-cac6-49b8-a9cf-ee404ab2dbd3
+    type: content
 description: Strapping strap line goes here!
